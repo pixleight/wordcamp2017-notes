@@ -2,6 +2,7 @@
 
 John Eckman. Not Jon Heller, not searching for the perfect search  
 @jeckman
+john@10up.com
 
 ## Headless (or head optional)
 
